@@ -1,0 +1,29 @@
+body {
+    margin: auto;
+    width: 70%;
+    text-indent: 1.5em;
+    text-align: justify;
+}
+figure {
+    float: right;
+    clear: right;
+}
+
+figcaption {
+    font-style: italic;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1.5em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table, tr, td {
+    border: 1px double black;
+}
+
